@@ -140,7 +140,7 @@ However, an LLM may need external information such as:
 
 Function Calling allows the model to request a specific function.
 
-In this project, the LLM can decide to call:
+---
+## Author 
 
-```text
-get_weather(city)
+AFREEN NISHA M 
